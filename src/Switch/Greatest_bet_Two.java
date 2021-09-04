@@ -16,7 +16,7 @@ public class Greatest_bet_Two {
 			switch(num1)
 			{
 			case num1:
-				s
+				Scanner
 			}
 
 		}
